@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Welcome to My Coding Universe! 🌟<br>🔭 Working on turning coffee into code with HTML, CSS, JS, React, and Next.js.<br>🌱 Learning how to make websites so responsive they do yoga, plus some WordPress magic.<br>👯 Looking to collaborate on projects with less meetings and more coding.<br>🤔 Need help with CSS—sometimes it feels like black magic.<br>💬 Ask me about tabs vs. spaces or any web dev shenanigans.<br>📫 Reach me: carrier pigeon or my GitHub rikeshhh.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: I can debug in my sleep... or at least dream about it.
+🌟 Welcome to My Coding Universe! 🌟<br>🔭 Working on turning coffee into code with HTML, CSS, JS, React, and Next.js.<br>🌱 Learning how to make websites so responsive they do yoga, plus some WordPress magic.<br>👯 Looking to collaborate on projects with less meetings and more coding.<br>🤔 Need help with CSS—sometimes it feels like black magic.<br>💬 Ask me about tabs vs. spaces or any web dev shenanigans.<br>📫 Reach me: carrier pigeon or my mail rikeshmania123@gmail.com.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: I can debug in my sleep... or at least dream about it.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rikeshhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
