@@ -1,12 +1,19 @@
 ## 💻 Journey into My Developer Den! 💻
 
 -🔭 I’m currently working on improving my skills in frontend development, focusing on projects involving HTML, CSS, JavaScript, React, and Next.js
--🌱 I’m currently learning advanced web development techniques, including frameworks like React and Next js.
+
+-🌱 I’m currently learning advanced web development techniques, including frameworks like React and Next js
+
 -👯 I’m looking to collaborate on open-source projects related to web development or any innovative frontend development projects.
+
 -🤔 I’m looking for help with optimizing performance in web applications and mastering responsive design.
+
 -💬 Ask me about frontend development, GitHub tips, or any web development-related questions.
+
 -📫 How to reach me: [rikeshmania123@gmail.com] or through my GitHub profile [rikeshhh].
+
 -😄 Pronouns: he/him.
+
 -⚡ Fun fact: I love experimenting with new web technologies and am a huge fan of creative coding challenges.
 
 
